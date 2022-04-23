@@ -10,7 +10,7 @@ lame
 
 ### 编译方法
 ```
-yum instal speex-devel 
+yum install speex-devel 
 cd spx2wav
 make
 cp spx2wav /usr/local/bin
